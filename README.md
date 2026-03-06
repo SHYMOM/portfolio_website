@@ -1,6 +1,6 @@
-https://shymom.github.io/portfolio_website/# 👨‍💻 SHEIKH SHYMOM ISLAM - Professional Portfolio
+https://shymom.github.io/portfolio/# 👨‍💻 SHEIKH SHYMOM ISLAM - Professional Portfolio
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://shymom.github.io/portfolio_website/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://shymom.github.io/portfolio/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 A high-performance, single-page personal portfolio website designed for Software Engineers. It features a modern **Glassmorphism** aesthetic, interactive particle animations, dark mode, and a hybrid layout combining professional timelines with detailed project cards.
